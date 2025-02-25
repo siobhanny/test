@@ -1,0 +1,22 @@
+li{
+    display: inline; color: rgb(255, 255, 255);
+}
+
+body{
+    background-color:hotpink;
+}
+h1 {font-size:xx-large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color:rgb(255, 255, 255);
+
+}
+
+.menu{font-size:medium; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold;
+}
+
+a{
+padding-left: 4px;
+padding-right: 4px;
+background-color:hotpink;
+text-decoration: none;
+text-decoration-color: floralwhite;
+
+}
